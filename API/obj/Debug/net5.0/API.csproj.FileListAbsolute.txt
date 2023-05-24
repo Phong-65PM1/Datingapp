@@ -128,3 +128,8 @@ D:\Datingapp6\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Datingapp6\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Datingapp6\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Datingapp6\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Datingapp6\API\bin\Debug\net5.0\Data\UserSeedData.json
+D:\Datingapp6\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Datingapp6\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Datingapp6\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\Datingapp6\API\bin\Debug\net5.0\Newtonsoft.Json.dll
